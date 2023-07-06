@@ -1,6 +1,11 @@
 ### Hi, I am Andrii 👋
 
-[![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrii-trush)](https://github.com/anuraghazra/github-readme-stats)
+## My Github Stats:
+
+<p align=left> <img src=https://komarev.com/ghpvc/?username=andrii-trush alt=andrii-trush /> <b>Since september 2015</b></p>
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=andrii-trush)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrii-trush&layout=compact)](https://github.com/andrii-trush/github-readme-stats)
 
 <!--
 **andrii-trush/andrii-trush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
