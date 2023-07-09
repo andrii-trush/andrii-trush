@@ -2,7 +2,7 @@
 
 ## My Github Stats:
 
-[![GitHub Stats](https://github-stat.tdev.agency/?username=andrii-trush&show=reviews,discussions_started,discussions_answered&show_icons=true)](#) 
+[![GitHub Stats](https://github-stat.tdev.agency/?username=andrii-trush&show_icons=true)](#) 
 [![Top Langs](https://github-stat.tdev.agency/top-langs/?username=andrii-trush)](#)
 
 <!--
