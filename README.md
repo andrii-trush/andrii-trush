@@ -1,7 +1,5 @@
 ### Hi, I am Andrii 👋
 
-## My Github Stats:
-
 [![GitHub Stats](https://github-stat.tdev.agency/?username=andrii-trush&show_icons=true)](#) 
 [![Top Langs](https://github-stat.tdev.agency/top-langs/?username=andrii-trush)](#)
 
