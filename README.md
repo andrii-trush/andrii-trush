@@ -2,8 +2,8 @@
 
 ## My Github Stats:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrii-trush&show=reviews,discussions_started,discussions_answered&show_icons=true)](#) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrii-trush)](#)
+[![GitHub Stats](https://github-stat.tdev.agency/?username=andrii-trush&show=reviews,discussions_started,discussions_answered&show_icons=true)](#) 
+[![Top Langs](https://github-stat.tdev.agency/top-langs/?username=andrii-trush)](#)
 
 <!--
 **andrii-trush/andrii-trush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
