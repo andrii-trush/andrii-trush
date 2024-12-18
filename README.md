@@ -1,7 +1,7 @@
 ### Hi, I am Andrii 👋
 
 [![GitHub Stats](https://github-stat.tdev.agency/?username=andrii-trush&show_icons=true)](#) 
-[![Top Langs](https://github-stat.tdev.agency/top-langs/?username=andrii-trush)](#)
+<!-- [![Top Langs](https://github-stat.tdev.agency/top-langs/?username=andrii-trush)](#) -->
 
 <!--
 **andrii-trush/andrii-trush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
