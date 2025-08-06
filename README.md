@@ -66,7 +66,7 @@ Open to interesting projects and collaborations — let’s build something amaz
 ---
 
 ### Contact
-- Email: contact@isapp.be  
+- Email: andrii.trush@isapp.be  
 - LinkedIn: https://www.linkedin.com/in/andriitrush/
 
 
